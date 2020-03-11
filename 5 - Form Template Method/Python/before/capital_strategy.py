@@ -1,6 +1,6 @@
 from abc import abstractmethod
-from risk_factors import RiskFactors
-from unused_risk_factors import UnusedRiskFactors
+from before.risk_factors import RiskFactors
+from before.unused_risk_factors import UnusedRiskFactors
 from dateutil.relativedelta import relativedelta
 
 
